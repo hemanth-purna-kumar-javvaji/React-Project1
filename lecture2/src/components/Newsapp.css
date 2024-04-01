@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar1 ul{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: gray;
+    padding: 30px 20px;
+    justify-content: space-around;
+}
+.navbar1 ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: azure;
+}
+.navbar1 ul li a:hover{
+    text-decoration: none;
+    background-color: beige;
+    padding: 5px 20px;
+    color: black;
+    font-weight: 600;
+    border-radius: 10px;
+}

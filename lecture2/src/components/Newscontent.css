@@ -1,0 +1,29 @@
+
+.data{
+    display: flex;
+}
+.card1 {
+    width: 18rem;
+    border: 1px solid blue;
+    border-radius: 10px;
+    padding: 10px 10px;
+}
+.card1 h4:hover{
+  color: red;
+  background-color: rgb(36, 55, 55);
+  border-radius: 10px;
+}
+.card1 img{
+    width: 16rem;
+    height: 10rem;
+    border-radius: 10px;
+}
+.card1 img:hover{
+    width: 17rem;
+    height: 12rem;
+    border-radius: 10px;
+}
+.card1 h2{
+    font-size: 15px;
+    width: 16rem;
+}
