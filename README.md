@@ -1,2 +1,2 @@
 # React-Project1
-This a News Application using React Js framework.
+This is News Application using React Js framework.
